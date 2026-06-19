@@ -28,6 +28,8 @@ The purpose of this portfolio is to demonstrate practical skills in analyzing cy
 ### 🧠 Threat Intelligence
 - Oski Malware Analysis
 - Yellow RAT Analysis
+- GrabThePhisher Investigation
+- IcedID Malware Analysis
 
 ### 💾 Memory Forensics
 - Amadey APT Analysis
