@@ -5,7 +5,7 @@ Threat intelligence analysis was conducted using VirusTotal and Red Canary resou
 
  Findings
 - Malware classification based on VirusTotal detections identified the family as:
-  - Yellow Cockatoo
+  - Yellow Cockatoo RAT
 - Examination of file metadata revealed commonly used filenames:
           111bc461-1ca8-43c6-97ed-911e0e69fdf8.dll
 - Portable Executable (PE) analysis provided insight into the malware’s development timeline:
@@ -13,7 +13,7 @@ Threat intelligence analysis was conducted using VirusTotal and Red Canary resou
 - VirusTotal submission data indicated when the malware was first observed:
           First submission: 2020-10-15 02:47
 - Threat intelligence research identified additional dropped artifacts:
-        edgeupdate.dat (located in the AppData directory)
+        solarmarker.dat 
 - Network behavior analysis revealed communication with a remote command-and-control server:
          https://gogohid.com
 
